@@ -1,1 +1,1 @@
-# JS_Reval-Scroll-Animation
+# Reveal-Scroll-Animation
